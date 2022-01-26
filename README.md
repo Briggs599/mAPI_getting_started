@@ -9,9 +9,5 @@ For the purposes of this workshop, you'll need to sign-up to following platforms
 - [Google Account](https://support.google.com/accounts/answer/27441?hl=en)
 
 ## To get started:
-1. Naviage to https://colab.research.google.com/
-    - **Make sure you are signed into your Google account.**
-2. Select the "GitHub" tab.
-3. Paste for https://github.com/Briggs599/mAPI_getting_started and click *enter*.
-    - Approve GitHub if prompted.
-4. Select "Notebook_1.ipynb" and follow along with notebook instructions.
+ **Make sure you are signed into your Google account.**
+<a href="https://colab.research.google.com/github/Briggs599/mAPI_getting_started/blob/main/Notebook_1.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
