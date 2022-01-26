@@ -10,6 +10,7 @@ For the purposes of this workshop, you'll need to sign-up to following platforms
 
 ## To get started:
 1. Naviage to https://colab.research.google.com/
+    - Make sure you are signed into your Google account.
     - Approve Google Colab if prompted.
 2. Select the "GitHub" tab.
 3. Paste for https://github.com/Briggs599/mAPI_getting_started and click *enter*.
